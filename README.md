@@ -1,10 +1,10 @@
 # DBpedia2vec
 
-In order to run the code, goto src folder and run the following command :
+In order to run the code, goto DBpedia2vec/src folder and run the following command :
 
     python dbpedia2vec.py --i ../data/sample_wiki_data.xml
 
-Check output folder for the model and the vocab file with corresponding vectors.
+Check DBpedia2vec/output folder for the model and the vocab file with corresponding vectors.
 
 In a Wiki XML data, phrases within double brackets are Wikipedia page links (which are also the DBpedia entity names since DBpedia entity names are mapped to their corressponding Wikipedia pages with the same title string).
 
