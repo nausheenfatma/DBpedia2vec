@@ -1,6 +1,6 @@
 # DBpedia2vec
 
-In order to run the code, Goto src folder and Run the following command :
+In order to run the code, goto src folder and run the following command :
 python dbpedia2vec.py --i ../data/sample_wiki_data.xml
 
 
