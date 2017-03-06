@@ -24,4 +24,4 @@ So we process each sentence and replace phrases within double brackets as a sing
 
 
 
-This project is inspired by similar work descibed by https://github.com/idio/wiki2vec
+This project is inspired by a similar work described by https://github.com/idio/wiki2vec
